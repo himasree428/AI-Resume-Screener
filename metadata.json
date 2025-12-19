@@ -1,0 +1,5 @@
+{
+  "name": "HireSync AI - Resume Screener",
+  "description": "An intelligent AI-powered resume screening and hiring assistant that matches candidate profiles with job descriptions using Gemini 3.",
+  "requestFramePermissions": []
+}
